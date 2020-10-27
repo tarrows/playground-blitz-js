@@ -1,0 +1,13 @@
+{
+  "name": "playground-blitz-js",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "blitz": "blitz",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "blitz": "^0.24.3"
+  }
+}
